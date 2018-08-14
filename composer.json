@@ -1,0 +1,17 @@
+{
+    "name": "codaxiom/ridecool",
+    "description": "Ridecool carpooling app server",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Vladimir Pejic",
+            "email": "v.pejic@codaxiom.com"
+        }
+    ],
+    "require": {
+      "alexpechkarev/geometry-library": "1.0",
+      "elasticsearch/elasticsearch": "^6.0",
+      "pusher/pusher-php-server": "^3.0",
+      "vlucas/phpdotenv": "^2.4"
+    }
+}
